@@ -9,5 +9,6 @@ soundfile
 scipy
 tensorflow 
 torch       
-joblib      
+joblib     
+resampy
 
