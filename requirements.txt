@@ -1,6 +1,13 @@
 streamlit
 librosa
-numpy
 scikit-learn
-joblib
+numpy
+pandas
+matplotlib
+seaborn
 soundfile
+scipy
+tensorflow 
+torch       
+joblib      
+
